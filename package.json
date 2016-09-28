@@ -1,0 +1,19 @@
+{
+  "name": "spotify",
+  "version": "0.0.0",
+  "description": "A CLI tool takes advantage of Spotify's CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "Spotify",
+    "cli"
+  ],
+  "author": "Karanbir Chahal",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.75.0"
+  }
+}
